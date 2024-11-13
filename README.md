@@ -1,4 +1,4 @@
-Melhor opção é em QT C++, pois tem servidor e cliente, está funcional, carrega e salva o personagem, tem algumas coisas para consertar mas é funcional.
+The best option is QT C++, because it has a server and a client, it's functional, it loads and saves the character, there are a few things to fix but it's functional.
 
 
 Link QT 5.12.12:
